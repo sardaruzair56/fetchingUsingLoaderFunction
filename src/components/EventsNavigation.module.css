@@ -21,4 +21,7 @@
 .list a:active,
 .list a.active {
   background-color: var(--color-primary-600);
+
+  text-decoration: underline;
+  
 }
