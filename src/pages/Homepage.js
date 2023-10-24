@@ -1,10 +1,12 @@
 import React from 'react'
+import PageContent from '../components/PageContent'
+
 
 function Homepage() {
   return (
-    <div>
-      <h1>My HomePage</h1>
-    </div>
+    <PageContent title='WELCOME!!!...' >
+      <h1>Browser All Amazing Events.....</h1>
+    </PageContent>
   )
 }
 
